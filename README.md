@@ -76,7 +76,7 @@ Go back to your repository on GitHub.com and click on `introduction.md`. You sho
 - No problem! Just edit the file again and make a new commit. You can make as many commits as you want.
 
 **I'm stuck**
-- Reach out to the instructor or a TA for help
+- Reach out to the instructor for help
 
 ---
 
